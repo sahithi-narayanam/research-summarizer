@@ -1,4 +1,3 @@
-```
 # Research Summarizer
 
 **Research Summarizer** is an AI-powered full-stack web application that enables users to summarize complete research papers based on a given topic. It fetches papers from **arXiv**, downloads the **entire paper content**, and uses advanced transformer models like **BART** and **LED** to generate concise, high-quality summaries.
@@ -10,7 +9,7 @@ Built with a **React + Tailwind CSS frontend** and a **FastAPI backend**, the ap
 ## ✨ Features
 
 - 🔍 **Topic-Based Search**: Enter any topic (e.g., “neural networks”) and fetch related papers from arXiv.
-- 🧠 **AI-Powered Models**: Uses state-of-the-art NLP models (BART and LED) to generate summary for the selected paper that are both relevant and readable.
+- 🧠 **AI-Powered Models**: Uses state-of-the-art NLP models (BART and LED) to generate summaries that are both relevant and readable.
 - 📊 **Relevance Ranking**: Displays papers in an order based on topic relevance.
 - ⚡ **Clean, Responsive UI**: Built using React and Tailwind CSS for a fast and elegant user experience.
 - 🔗 **Direct Links to Papers**: Users can access the original paper via arXiv.
@@ -34,6 +33,7 @@ Built with a **React + Tailwind CSS frontend** and a **FastAPI backend**, the ap
    ```bash
    git clone https://github.com/sahithi-narayanam/research-summarizer.git
    cd research-summarizer/research-summarizer-backend
+
    ```
 
 2. Create and activate a virtual environment:
