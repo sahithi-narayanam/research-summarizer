@@ -94,24 +94,6 @@ Built with a **React + Tailwind CSS frontend** and a **FastAPI backend**, the ap
 - 🧠 Switch between summarization models for custom output.
 - 🧬 Add more sources like PubMed, Springer, or Semantic Scholar.
 
----
-
-## 🤝 Contributing
-
-Interested in contributing? Here's how:
-
-1. Fork this repo
-2. Create a branch:
-   ```bash
-   git checkout -b feature/your-feature
-   ```
-3. Make your changes
-4. Commit and push:
-   ```bash
-   git commit -m "Added new feature"
-   git push origin feature/your-feature
-   ```
-5. Open a Pull Request 🚀
 
 ---
 
