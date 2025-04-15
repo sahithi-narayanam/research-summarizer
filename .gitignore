@@ -1,0 +1,14 @@
+# Node.js dependencies
+research-summarizer-frontend/node_modules/
+
+# Python virtual environment
+research-summarizer-backend/__pycache__/
+research-summarizer-backend/env/
+research-summarizer-backend/venv/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
